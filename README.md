@@ -4,17 +4,17 @@
 
 This is the Repo from IOT HS18, Group 5, consisting of the members:
 
-[@daveschafer](https://github.com/daveschafer)
-[@pascalinaebnit](https://github.com/pascalinaebnit)
+[@daveschafer](https://github.com/daveschafer)  
+[@pascalinaebnit](https://github.com/pascalinaebnit)  
 @tckueng  
 @iaschran    
 
 ### Final Report - Project Documentation
 
-**The Final Project Report lies here**: [Final-Report] (/Final Project Submission/)  
+**The Final Project Report lies here**: [Final-Report](/Final Project Submission/)  
 
 
-**Final Report**: [Final-Report] (/Final Project Submission/FinalReport-Group05.pdf)
+**Final Report**: [Final-Report](/Final Project Submission/FinalReport-Group05.pdf)
 
 
 This Repository describes the project our Group created in the module “Internet of Things” in the Fall Semester 2018. In this Project, our group of four students did implement an Environment Measurement Kit, which gathers Air Quality, Temperature, Humidity, Pressure and GPS Data from different Sensors. The Edge Device then sends these data via a Low Power Transmission Protocol (LoRa) to a Gateway. The Gateway redirects the data through WiFi to a Cloud Backend Service, which displays the data in the form of different Graphs and other measuring displays.

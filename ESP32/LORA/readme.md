@@ -23,4 +23,4 @@ https://robotzero.one/heltec-wifi-kit-32/
 
 The Default Settings for Flash Size, CPU etc. should be allright
 
-![Heltec] (https://robotzero.one/wp-content/uploads/2017/09/ide-board-manager-heltec32.jpg)
+![Heltec](https://robotzero.one/wp-content/uploads/2017/09/ide-board-manager-heltec32.jpg)

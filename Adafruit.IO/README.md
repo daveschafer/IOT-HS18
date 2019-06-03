@@ -1,6 +1,6 @@
 # Adafruit.IO
 
-This SUbsection describes how to work with adafruit. You will find some code samples in Python and in C here.
+This Subsection describes how to work with Adafruit.IO. You will find some code samples in Python and in C here.
 
 ## What is Adafruit.IO?
 
@@ -12,7 +12,7 @@ We will use it in this project, to visualize our collected data (temp, humidity,
 
 First you will need to create an account and configure your first Adafruit **Dashboard** and Adafruit **Feed**.
 
-This process is best described here, carefully follow all the instructions and read **all** the sublinks:
+This process is best described here, carefully follow all the instructions and read **all** the sublinks:  
 https://learn.adafruit.com/mqtt-adafruit-io-and-you/getting-started-on-adafruit-io
 
 
@@ -20,7 +20,7 @@ https://learn.adafruit.com/mqtt-adafruit-io-and-you/getting-started-on-adafruit-
 
 
 **Important note about feeds**: "For example, if you have a project with one temperature sensor and two humidity sensors, you would need to create three feeds."  
-**Important note 2**: adafruit only knows '-' and no '_'. It will change '_' to '-', pleas remember this when creating geeds
+**Important note 2**: adafruit only knows '-' and no '_'. It will change '_' to '-', pleas remember this when creating feeds
 
 ## Adafruit.IO and Raspberry
 
@@ -50,9 +50,9 @@ Please take a look at the "dummy_esp32/dummy_esp32.ino" example to understand ho
 
 GPS with adafruit is a bit more complex.
 
-Most ist described here: https://cdn-learn.adafruit.com/downloads/pdf/adafruit-io-basics-gps.pdf
+Most is described here: https://cdn-learn.adafruit.com/downloads/pdf/adafruit-io-basics-gps.pdf
 
-But to understand how to build the messages, you have to take a deeper look int their code from here:
+But to understand how to build the messages, you have to take a deeper look into their code from here:
 
 https://learn.adafruit.com/track-your-treats-halloween-candy-gps-tracker/software
 

@@ -117,8 +117,8 @@ _Wiring Information Source: From the GPS classes of https://github.com/emmellsof
 
 ![wiring](dragino_wiring.jpg)
 
-More Wiring Information can be found here:  
-![DraginoSchematics](Lora GPS  HAT for RPi v1.4.pdf)
+More Wiring Information can be found here:   
+![DraginoSchematics](Lora_GPS_HAT_for_RPi_v1.4.pdf)
 
 ### Footnote about the Dragino HAT
 
