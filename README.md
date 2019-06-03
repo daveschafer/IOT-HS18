@@ -4,10 +4,10 @@
 
 This is the Repo from IOT HS18, Group 5, consisting of the members:
 
-@daveschafer
-@pascalinaebnit
-@tckueng
-@iaschran  
+[@daveschafer](https://github.com/daveschafer)
+[@pascalinaebnit](https://github.com/pascalinaebnit)
+@tckueng  
+@iaschran    
 
 ### Final Report - Project Documentation
 
